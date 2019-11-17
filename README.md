@@ -29,3 +29,4 @@ I thus decided to build a content-based wine recommendation system, but what are
 
 **[This notebook](https://github.com/de-la-viz/winerec/blob/master/code/WriteUp.ipynb) contains the code for building the recommendation system and presents the different steps and the process.**  
 
+Techniques used: unsupervised learning, natural language processing, word embeddings and topic modelling.  
