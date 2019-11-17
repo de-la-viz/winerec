@@ -1,5 +1,4 @@
-# winerec
-**A content-based wine recommendation system using professional tasting descriptions.**
+# #winerec, a content-based wine recommendation system using professional tasting descriptions
 
 *“There are thousands of wines that can take over our minds. Don't think all ecstasies are the same!”― Jalaluddin Rumi*
 
