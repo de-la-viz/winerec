@@ -18,7 +18,7 @@ I thus decided to build a content-based wine recommendation system, but what are
 
 **To date, a source of data that has been largely overlooked for wine recommendation solutions are tasting descriptions. Text descriptions written by professional sommelier aim precisely at describing the subtle differences in taste, structure or aromas between the wines, using an elaborate vocabulary.**
 
-**This project is a proof of concept, which aim is to test the assumption that professional wine reviews can/should be used for wine recommendations. Thus, I will try to build a recommendation system using only the tasting descriptions. In a real application, we might want to use other “contents”.** I will follow four steps:  
+**This project is a proof of concept, which aim is to test the assumption that professional wine reviews can/should be used for wine recommendations. Thus, I will try to build a recommendation system using only the tasting descriptions. In a real application, we might want to use other “contents” too.** I will follow four steps:  
 1. Use Natural Language Processing (NLP) to extract the information contained in the descriptions
 2. Build a content-based wine recommendation system using these tasting descriptions
 3. Recommend wines based on one selected wine that the user liked (i.e. initial profile of the user)
