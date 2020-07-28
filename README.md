@@ -1,5 +1,9 @@
 # #winerec, A Content-Based Wine Recommendation System Using Professional Tasting Descriptions
 
+**The project is presented, commented and discussed in this [presentation](https://docs.google.com/presentation/d/1tCcIGw24lLizHxUUMnMihTvOzKZYvRUpyS5TRDJtqBU/edit?usp=sharing).**
+
+**[This notebook](https://github.com/de-la-viz/winerec/blob/master/code/WriteUp.ipynb) contains the code for building the recommendation system and presents the different steps and the process.**  
+- - - -
 *“There are thousands of wines that can take over our minds. Don't think all ecstasies are the same!”― Jalaluddin Rumi*
 
 How to select wine so that it matches your taste best? Data science can be used to solve this problem with a recommendation system, which propose wines that the user is expected to like.
